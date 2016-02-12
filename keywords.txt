@@ -1,0 +1,5 @@
+WearLevelling	KEYWORD1
+clear	KEYWORD2
+debug	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
